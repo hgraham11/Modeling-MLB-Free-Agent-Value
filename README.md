@@ -29,6 +29,7 @@ Using:
 - `2026 MLB Free Agent Predictions Pt. 2-2.pdf`: Report using Random Forest models
 - `BUS 465 Final Project Presentation.pdf`: Slide deck summarizing project
 - `FULLCOMPLETEPROJECT.RData`: Full R workspace with all models and data objects
+- `Final Project.R`: Full R script for the entire workflow: data prep, modeling, and evaluation
 
 ## Tools Used
 

@@ -2,7 +2,7 @@
 
 This project forecasts MLB free agent contract terms using machine learning and statistical modeling in R. It’s divided into two parts:
 
-- **Part 1:** Linear regression models trained on clustered player groups (./2026%20MLB%20Free%20Agent%20Predictions%20Pt.%201-3.pdf)
+- **Part 1:** Linear regression models trained on clustered player groups 
 - **Part 2:** Random forest models for enhanced predictive performance
 
 ## Objective
